@@ -21,16 +21,10 @@ The final deliverable for this task is a completed design file that can be devel
  /documentation
 Contains the official gig PDF and details of the service approval.
 
- /screenshots
-Includes:
-- Chat with the client
-- Service acceptance comment
-- Payment confirmation
-- Preview samples
+ 
 
- /work
-Contains the delivered work files, including:  
-`portfolio_html_site.zip`
+ /portfolio_design_site
+Contains the delivered work files.
 
 
  👤 Freelancer
